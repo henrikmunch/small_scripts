@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "System Health Diagnostics"
-echo "====================="
+echo "========================="
 
 # CPU Usage
 echo "CPU Load:"
